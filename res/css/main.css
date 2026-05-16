@@ -1,0 +1,13 @@
+.platter {
+    border: 10px solid white;
+    border-radius: 50%;
+}
+
+fixed {
+    border: 4px solid black;
+    background-color: blue;
+}
+
+tabs {
+    min-height: 3px;
+}
